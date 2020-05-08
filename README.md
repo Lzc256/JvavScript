@@ -1,6 +1,8 @@
 # JvavScript
 JvavScript是世界上最好的编程语言(滑稽)
 
+获取JvavScript： [https://github.com/Lzc256/JvavScript](https://github.com/Lzc256/JvavScript)
+
 请认准JvavScript官网: [https://www.jvavscript.xyz](https://www.jvavscript.xyz) ，识别假冒站点，你我势必同行！(狗头)
 
 # 提醒
